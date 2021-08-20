@@ -14,6 +14,7 @@
 		C559CD3626CFA11700411132 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C559CD3426CFA11700411132 /* LaunchScreen.storyboard */; };
 		C559CD4126CFA11700411132 /* Homework5Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C559CD4026CFA11700411132 /* Homework5Tests.swift */; };
 		C559CD4C26CFA11700411132 /* Homework5UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C559CD4B26CFA11700411132 /* Homework5UITests.swift */; };
+		C559CD5A26CFB00300411132 /* MainScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C559CD5926CFB00300411132 /* MainScreenViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C559CD4726CFA11700411132 /* Homework5UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Homework5UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C559CD4B26CFA11700411132 /* Homework5UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homework5UITests.swift; sourceTree = "<group>"; };
 		C559CD4D26CFA11700411132 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C559CD5926CFB00300411132 /* MainScreenViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainScreenViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				C559CD3226CFA11700411132 /* Assets.xcassets */,
 				C559CD3426CFA11700411132 /* LaunchScreen.storyboard */,
 				C559CD3726CFA11700411132 /* Info.plist */,
+				C559CD5926CFB00300411132 /* MainScreenViewController.swift */,
 			);
 			path = Homework5;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				C559CD2E26CFA11700411132 /* ViewController.swift in Sources */,
 				C559CD2C26CFA11700411132 /* AppDelegate.swift in Sources */,
+				C559CD5A26CFB00300411132 /* MainScreenViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
